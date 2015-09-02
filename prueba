@@ -2,3 +2,5 @@
 hola mundo de Git
 
 System.out.println("Hola mundo");
+
+echo "hola mundo bash".
